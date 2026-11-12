@@ -99,6 +99,7 @@ fun main() {
 *
 * the first function is "string_to_num()" this function takes a string as input, then returns a list of numbers.
 *
-* the second function is "numS_to_string()" this function takes a list of numbers, and returns
+* the second function is "numS_to_string()" this function takes a list of numbers, and returns the string that is equivalent to that lis of numbers
+*
 *
 * */
